@@ -1,0 +1,5 @@
+Time:  2018-06-22 03:18:26.206111
+ 
+Guessed word: MALE
+Guessed tries: 5
+Score: 0
